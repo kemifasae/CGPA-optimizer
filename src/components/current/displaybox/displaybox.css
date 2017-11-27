@@ -1,0 +1,14 @@
+.curr-details{
+  border: solid 1px;
+  margin: 5px;
+  width: 98%;
+}
+.instruction{
+  float: left;
+}
+.inputBox{
+  width: 80%;
+  margin: 3px;
+  text-align: right;
+  color: black;
+}
