@@ -1,0 +1,12 @@
+.details-title{
+  color: blue;
+}
+.prev-details{
+  margin: 35px;
+  width: 500px;
+  border: solid 1px;
+}
+
+.form-group{
+  padding: 20px;
+}
